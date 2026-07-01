@@ -1,4 +1,4 @@
-<h1 align="center">Hi , I'm Divya Das</h1>
+<h1 align="center">Hi, I'm Divya Das</h1>
 <h3 align="center">Full Stack Developer · MERN · AI Integrations · Kolkata, India</h3>
 
 <p align="center">
@@ -20,7 +20,7 @@
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
 ![Groq](https://img.shields.io/badge/Groq_AI-0891B2?style=flat&logo=lightning&logoColor=white)
 
-🔗 [View Repository](https://github.com/divya240918/Saarthi)
+🔗 [View Repository](https://github.com/dvbuilds/Saarthi)
 
 ---
 
@@ -36,7 +36,7 @@
 ![JWT](https://img.shields.io/badge/JWT-0EA5E9?style=flat&logo=jsonwebtokens&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat&logo=cloudinary&logoColor=white)
 
-🔗 [View Repository](https://github.com/divya240918/Siksha)
+🔗 [View Repository](https://github.com/dvbuilds/Siksha)
 
 ---
 
@@ -44,8 +44,8 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🤖 [Saarthi](https://github.com/divya240918/Saarthi) | AI-powered PDF study tool — chat, quiz, flashcards, summary, notes | MERN · Groq · Tailwind v4 |
-| 🎓 [Siksha](https://github.com/divya240918/Siksha) | Collaborative student notes & academic platform | MERN · JWT · Cloudinary |
+| 🤖 [Saarthi](https://github.com/dvbuilds/Saarthi) | AI-powered PDF study tool — chat, quiz, flashcards, summary, notes | MERN · Groq · Tailwind v4 |
+| 🎓 [Siksha](https://github.com/dvbuilds/Siksha) | Collaborative student notes & academic platform | MERN · JWT · Cloudinary |
 
 ---
 
@@ -87,12 +87,12 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya240918&show_icons=true&theme=algolia&hide_border=true" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=divya240918&theme=algolia&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dvbuilds&show_icons=true&theme=algolia&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dvbuilds&theme=algolia&hide_border=true" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya240918&layout=compact&theme=algolia&hide_border=true" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dvbuilds&layout=compact&theme=algolia&hide_border=true" width="40%" />
 </p>
 
 ---
@@ -100,7 +100,7 @@
 ## 📬 Connect with me
 
 <p align="left">
-  <a href="https://github.com/divya240918">
+  <a href="https://github.com/dvbuilds">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/divya-das-419800249">
@@ -111,5 +111,5 @@
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=divya240918&color=0891B2&style=flat" alt="profile views" />
+  <img src="https://komarev.com/ghpvc/?username=dvbuilds&color=0891B2&style=flat" alt="profile views" />
 </p>
